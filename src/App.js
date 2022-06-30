@@ -38,7 +38,7 @@ function App() {
     color:"green",
     textColor:"white",
     value:getRandomNumber(),
-    maxValue:1000,
+    maxValue:2500,
   },
   {
     id: 5,
